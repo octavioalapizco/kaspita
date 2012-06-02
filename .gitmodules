@@ -1,0 +1,6 @@
+[submodule "mazatleca_core"]
+	path = mazatleca_core
+	url = https://exprezzo@github.com/exprezzo/mazatleca_core.git
+[submodule "cms_app"]
+	path = cms_app
+	url = https://exprezzo@github.com/exprezzo/cms_core.git
